@@ -1,0 +1,1 @@
+# Syntecxhub_Hand_Gesture_Recognition
