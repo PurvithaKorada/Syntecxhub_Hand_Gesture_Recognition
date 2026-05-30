@@ -1,4 +1,4 @@
-# SyntecxHub Project - Hand Gesture Recognition
+# Syntecxhub_Hand_Gesture_Recognition
 
 ## 📌 Overview
 
@@ -69,4 +69,4 @@ Through this project, I gained practical experience in:
 **Purvitha Korada**
 
 Developed as part of the **SyntecxHub Internship Program**.
-# Syntecxhub_Hand_Gesture_Recognition
+
